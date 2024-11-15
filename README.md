@@ -1,1 +1,2 @@
-# ogrenci_performans_degerlendirme
+# -renci_Perfonmans_Tahminlemesi_MLOps_Deneme2
+Etütte yaptığımız mlops projesi
